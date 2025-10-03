@@ -7,10 +7,8 @@ This repository documents a series of screenshots related to VPN usage and publi
 ### 1. Windscribe VPN Status
 - **Mode**: Autopilot / Manual
 - **Status**: ON/OFF across different sessions
-- **Servers Used**: Atlanta, US Central, US East, US West, WINDFLIX US
-- **Accounts**: `newtrial`, `newfish`
-- **Data Remaining**: 2.2 GB / 29.8 GB
-- **Upgrade Prompt**: Visible in trial accounts
+- **Servers Used**: Atlanta, US Central, US East, US West,
+
 
 ### 2. IP Address & Geolocation
 - **Public IPv4**: 198.46.249.56 (US) / 49.43.XX.XX (India)
@@ -23,9 +21,4 @@ This repository documents a series of screenshots related to VPN usage and publi
 ## Use Cases
 - VPN connectivity verification
 - IP-based geolocation testing
-- Streaming server selection (WINDFLIX)
-- ISP and region mapping for OSINT or diagnostics
-
-## Notes
-- Screenshots reflect dynamic VPN states and IP changes.
-- Useful for documenting VPN behavior, IP leaks, and region-based access control.
+- Streaming server selection
